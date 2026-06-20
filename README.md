@@ -38,8 +38,7 @@ I actively explore multiple domains across software engineering:
 - DevOps & Cloud
 - System Design
 - Artificial Intelligence
-- Open Source
-- Developer Tooling
+
 
 Understanding how these areas connect allows me to build complete systems rather than isolated features.
 
@@ -119,8 +118,6 @@ Machine Learning (Learning)
 
 ---
 
-## 📌 What I'm Building
-
 
 
 ## 🧠 Engineering Philosophy
@@ -138,22 +135,6 @@ I ask:
 > What problem am I solving and what constraints exist?
 
 Understanding the underlying principles helps me make better engineering decisions and adapt to new technologies faster.
-
-### Systems Thinking
-
-I love understanding how software behaves as a complete system.
-
-Some questions I frequently explore:
-
-- How does a request travel through a distributed system?
-- How do databases scale under heavy load?
-- How do systems recover from failures?
-- How do cloud platforms manage resources?
-- How do AI systems process and learn from information?
-
-Because writing code is only one part of engineering. Designing reliable systems is equally important.
-
----
 
 ## 🌱 Currently Learning
 
