@@ -46,7 +46,7 @@ My goal is not just to know what works, but to understand why it works.
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
-<sub>Go — currently learning</sub>
+
 
 **Frontend**
 <p>
