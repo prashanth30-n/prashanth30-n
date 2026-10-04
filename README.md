@@ -80,11 +80,7 @@ My goal is not just to know what works, but to understand why it works.
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
 </p>
 
-**AI & ML**
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-</p>
-<sub>Currently learning</sub>
+
 
 ---
 ## 🧠 Engineering Philosophy
@@ -95,11 +91,5 @@ Instead of asking:
 I ask:
 > What problem am I solving and what constraints exist?
 Understanding the underlying principles helps me make better engineering decisions and adapt to new technologies faster.
-## 🌱 Currently Learning
-I'm currently exploring:
-- Machine Learning
-- Production Backends
-My long-term goal is to combine strong software engineering fundamentals with AI and build intelligent systems that solve meaningful problems.
----
-> "Learn broadly. Understand deeply. Build relentlessly."
+
 ### Building • Learning • Sharing 🚀
